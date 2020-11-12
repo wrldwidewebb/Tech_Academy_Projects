@@ -1,0 +1,1 @@
+This repository contains all of the projects and content learned throughout the JavaScript Course. Enjoy.
