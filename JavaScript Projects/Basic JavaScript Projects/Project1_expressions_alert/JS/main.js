@@ -1,7 +1,7 @@
 
 window.alert("Hey guys, feel free to look around")
 var Family = "The Doghouse", Dog1 = "Jax", Dog2 = "Louie", Dog3 = "Gus", Dog4 = "Bear", description = "Never let this family out or they will say \"Woof\"!"
-
+var concat = "John said, \"No!\"", nating = "Bill said, \"Yes!\""
 
 
 var Family = Family.fontcolor("green");
@@ -11,6 +11,8 @@ var Dog2 = Dog2.fontcolor("tan")
 var Dog1 = Dog1.fontcolor("brown")
 
 document.write(Dog4, Dog2, Dog1, description);
+
+document.write(concat + nating)
 
 document.write(21 + 21)
 
